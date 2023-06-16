@@ -1,0 +1,16 @@
+.article-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .article-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .article-button {
+    margin-top: 10px;
+  }
+
+  
